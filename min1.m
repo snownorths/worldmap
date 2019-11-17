@@ -3,3 +3,4 @@ function [s,i,j]=min1(A)
     [s,j]=min(M,[],2);
     i=I(j);
 end
+it is matlab
